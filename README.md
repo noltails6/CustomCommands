@@ -7,7 +7,8 @@ if you dont know how to put programs into your path, look it up
 # How to use the commands
 ok so below is what each of the commands do and how to use them
 ## cushelp
-shows help for these commands.
+shows help for these commands, although it is a bit out of date; just read below until i update it :)
+
 syntax: none
 ## box
 this command creates a message box on the screen. useful for scripting.
