@@ -35,3 +35,7 @@ tests to see if you have an internet connection. only really useful in scripting
 syntax: itest /out
 
 out shows the errorlevel and what it means.
+## lock
+locks your screen. requires you to type "confirm" after lock.
+
+syntax: lock confirm
